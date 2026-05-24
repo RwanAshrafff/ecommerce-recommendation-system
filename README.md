@@ -127,35 +127,29 @@ Star Schema including:
 - Silhouette Score > 0.70
 
 ---
-
-# Power BI Dashboard
-
-The dashboard contains:
+# Dashboard Preview
 
 ## Home Dashboard
-- Revenue KPIs
-- Monthly Sales Trends
-- Product Analysis
-- Geographic Insights
 
-## Customer Insights
-- Customer Segmentation
-- Spending Analysis
-- RFM Analytics
+![Home Dashboard](imags/HomePage.png)
 
-## Country Insights
-- Regional Revenue Analysis
-- Market Expansion Opportunities
+---
 
+## Customer Insights Dashboard
+
+![Customer Insights](imags/CustomerInsights.png)
+
+---
+
+## Country Insights Dashboard
+
+![Country Insights](imags/CountryInsights.png)
 ---
 
 # Project Structure
 
 ```bash
-├── Dashboard.pbix
 ├── Models.ipynb
 ├── Paper.pdf
 ├── datasets/
-├── sql/
-├── visuals/
 └── README.md
