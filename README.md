@@ -131,19 +131,19 @@ Star Schema including:
 
 ## Home Dashboard
 
-![Home Dashboard](imags/HomePage.png)
+![Home Dashboard](imgs/HomePage.png)
 
 ---
 
 ## Customer Insights Dashboard
 
-![Customer Insights](imags/CustomerInsights.png)
+![Customer Insights](imgs/CustomerInsights.png)
 
 ---
 
 ## Country Insights Dashboard
 
-![Country Insights](imags/CountryInsights.png)
+![Country Insights](imgs/CountryInsights.png)
 ---
 
 # Project Structure
